@@ -19,3 +19,6 @@ The backend database storing small bits of information. Will be hosted either on
 
 **Webapp**
 The main component that pieces everything together. Will hopefully fucntion well and look good while doing it!!
+
+**Promotional Website**
+Meant to promote website and be a small part of the bigger project. Advertisation and concept of what my project would look like professionally.
