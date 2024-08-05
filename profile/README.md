@@ -10,13 +10,13 @@ that will display the live feed to a undisclosed link which will then also be di
 
 **AI Detection**
 This will be a file/respository of the code used to create a AI motion tracking camera. I'm going to build this code directly into my camera and will then have this streamed 
-to a external live feed + my webapp - Completed Camera, need to upload the python file for AI
+to a external live feed + my webapp **- Completed Camera, need to upload the python file for AI**
 
 **Backend**
-The backend database storing small bits of information. Will be hosted either on a old computer of mine or Google's Firebase (Unsure). To-Do (Connected with the WebApp)
+The backend database storing small bits of information. Will be hosted either on a old computer of mine or Google's Firebase (Unsure). **- To-Do (Connected with the WebApp)**
 
 **Webapp**
-The main component that pieces everything together. Will hopefully fucntion well and look good while doing it!!  - To-Do
+The main component that pieces everything together. Will hopefully fucntion well and look good while doing it!!  **- To-Do**
 
 **Promotional Website**
-Meant to promote website and be a small part of the bigger project. Advertisation and concept of what my project would look like professionally. - Completed 
+Meant to promote website and be a small part of the bigger project. Advertisation and concept of what my project would look like professionally. **- Completed** 
